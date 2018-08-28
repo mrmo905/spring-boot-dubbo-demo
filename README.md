@@ -5,4 +5,4 @@
 - Dubbo 2.6.0
 - dubbo-spring-boot-starter 2.0.0
 - zookeeper 3.4.12
-- dubbo-admin [dubbo-opt](https://github.com/dubbo/dubbo-ops)
+- [dubbo-admin](https://github.com/dubbo/dubbo-ops)
