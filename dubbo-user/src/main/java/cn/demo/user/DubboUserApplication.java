@@ -1,11 +1,11 @@
-package cn.echomo.user;
+package cn.demo.user;
 
 import com.alibaba.dubbo.config.spring.context.annotation.EnableDubbo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@EnableDubbo(scanBasePackages = "cn.echomo.user")
+@EnableDubbo(scanBasePackages = "cn.demo.user")
 public class DubboUserApplication {
 
     public static void main(String[] args) {

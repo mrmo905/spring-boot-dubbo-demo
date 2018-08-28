@@ -1,6 +1,6 @@
-package cn.echomo.user.service.impl;
+package cn.demo.user.service.impl;
 
-import cn.echomo.service.UserService;
+import cn.demo.service.UserService;
 import com.alibaba.dubbo.config.annotation.Service;
 
 @Service

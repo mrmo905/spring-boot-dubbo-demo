@@ -1,4 +1,4 @@
-package cn.echomo.service;
+package cn.demo.service;
 
 public interface UserService {
 

@@ -1,6 +1,6 @@
-package cn.echomo.dubbo.comsume.controller;
+package cn.demo.dubbo.comsume.controller;
 
-import cn.echomo.service.UserService;
+import cn.demo.service.UserService;
 import com.alibaba.dubbo.config.annotation.Reference;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
