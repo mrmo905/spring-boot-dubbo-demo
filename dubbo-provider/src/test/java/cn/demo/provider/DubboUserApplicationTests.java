@@ -1,4 +1,4 @@
-package cn.demo.user;
+package cn.demo.provider;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

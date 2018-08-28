@@ -1,4 +1,4 @@
-package cn.demo.user.service.impl;
+package cn.demo.provider.service.impl;
 
 import cn.demo.service.UserService;
 import com.alibaba.dubbo.config.annotation.Service;
